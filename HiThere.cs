@@ -12,7 +12,7 @@ namespace HelloWorldApp {
               
             // statement 
             // printing Hello World! 
-            Console.WriteLine("Hello World!"); 
+            Console.WriteLine("Hello jenkins!"); 
               
             // To prevents the screen from  
             // running and closing quickly 
